@@ -1,0 +1,16 @@
+{
+  "name": "qrcode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "multer": "^1.2.0",
+    "morgan": "*"
+  }
+}
